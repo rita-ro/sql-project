@@ -30,5 +30,5 @@ Aggregated campaign reach by month.
 Applied window functions to calculate month-over-month growth.
 Ranked campaigns by highest reach growth.
 The campaign “Hobbies” had the largest monthly reach increase.
-In April 2022, it reached over 5M people, an increase of 4,27M compared to the previous month.
+In April 2022, it reached over 5M people, an increase of 4,27M people compared to the previous month.
 This indicates a major expansion of visibility, likely due to a budget increase, new targeting strategy or viral success.
