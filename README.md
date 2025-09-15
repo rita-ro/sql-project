@@ -8,8 +8,8 @@ Many days show min spend = 0 while max spend is very high, some campaigns had no
 This indicates budgets weren’t evenly distributed across campaigns/ad sets.
 As a result I identified campaigns consuming disproportionate budget share.
 Flagged days with zero spend or extreme spikes for further review. 
-</pre>
 Enabled marketing team to optimize budget allocation and reduce wasted spend.
+</pre>
 <pre> 
   Task 1.2 - ROMI perfomance analysis:
 Evaluated advertising efficiency across Facebook and Google Ads by calculating Return on Marketing Investment (ROMI) at the daily and channel level.
