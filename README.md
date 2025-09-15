@@ -1,5 +1,5 @@
 Marketing Campaign Performance Analysis
-Task 1.1 - Researching the details of online campaigns:
+<pre> Task 1.1 - Researching the details of online campaigns:
 Calculated daily average, maximum, and minimum spend to identify budget allocation trends and detect outliers. 
 Insights helped compare spending strategies across channels and highlight campaigns driving disproportionate costs. 
 Google and Facebook both show large fluctuations in spend, but Facebook often has higher max values. Google shows some extreme peaks too. 
