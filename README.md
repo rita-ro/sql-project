@@ -6,7 +6,7 @@ Google and Facebook both show large fluctuations in spend, but Facebook often ha
 Many days show min spend = 0 while max spend is very high, some campaigns had no spend at all while others dominated.
 This indicates budgets weren’t evenly distributed across campaigns/ad sets.
 As a result I identified campaigns consuming disproportionate budget share.
-Flagged days with zero spend or extreme spikes for further review.
+Flagged days with zero spend or extreme spikes for further review. </pre>
 Enabled marketing team to optimize budget allocation and reduce wasted spend.
 <pre> Task 1.2 - ROMI perfomance analysis:
 Evaluated advertising efficiency across Facebook and Google Ads by calculating Return on Marketing Investment (ROMI) at the daily and channel level.
@@ -16,7 +16,7 @@ Top ROMI days are all Facebook campaigns, Facebook clearly outperformed Google i
 ROMI values range 2.37 – 2.49, every $1 spent returned ~$2.40 in value.
 Concentration in January–February 2022, the best results cluster in a short period, 
 which may point to strong seasonality or a particularly effective campaign strategy during that time.
-Optimization insight: strategies used in early 2022 Facebook campaigns could be benchmarked and replicated for future ads.
+Optimization insight: strategies used in early 2022 Facebook campaigns could be benchmarked and replicated for future ads. </pre>
 <pre> Task 1.3 - Top performing weekly campaign:
 Analyzed advertising campaigns across Facebook and Google to identify weekly revenue drivers.
 Aggregated campaign performance by week.
