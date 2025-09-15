@@ -8,7 +8,7 @@ This indicates budgets weren’t evenly distributed across campaigns/ad sets.
 As a result I identified campaigns consuming disproportionate budget share.
 Flagged days with zero spend or extreme spikes for further review.
 Enabled marketing team to optimize budget allocation and reduce wasted spend.
-Task 1.2 - ROMI perfomance analysis:
+<pre> Task 1.2 - ROMI perfomance analysis:
 Evaluated advertising efficiency across Facebook and Google Ads by calculating Return on Marketing Investment (ROMI) at the daily and channel level.
 Calculated ROMI using campaign spend and value metrics. 
 Identified top-performing days and channels with highest returns.
@@ -17,14 +17,14 @@ ROMI values range 2.37 – 2.49, every $1 spent returned ~$2.40 in value.
 Concentration in January–February 2022, the best results cluster in a short period, 
 which may point to strong seasonality or a particularly effective campaign strategy during that time.
 Optimization insight: strategies used in early 2022 Facebook campaigns could be benchmarked and replicated for future ads.
-Task 1.3 - Top performing weekly campaign:
+<pre> Task 1.3 - Top performing weekly campaign:
 Analyzed advertising campaigns across Facebook and Google to identify weekly revenue drivers.
 Aggregated campaign performance by week.
 Ranked campaigns by total weekly revenue contribution.
 Highlighted standout campaigns for strategic review.
 As a result, identified “Expansion” as the top campaign, generating $2.29M in the week of April 11, 2022.
 Therefore I suggest to prioritize high-revenue campaigns in budget allocation.
-Task 1.4 - Monthly Reach Growth Analysis:
+<pre> Task 1.4 - Monthly Reach Growth Analysis:
 Measured audience reach growth across Facebook and Google campaigns to identify which campaigns expanded visibility most effectively.
 Aggregated campaign reach by month.
 Applied window functions to calculate month-over-month growth.
